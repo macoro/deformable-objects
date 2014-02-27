@@ -1,0 +1,4 @@
+#define IMAG_FORCE 0
+#define IMAG_POSITION 1
+#define IMAG_PREVPOS  2
+#define IMAG_VELOCITY 3
